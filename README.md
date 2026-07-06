@@ -13,7 +13,7 @@ A structured collection of grammar notes, lecture slides, exercises, solutions, 
 
 | Course                                           | Status         |
 | ------------------------------------------------ | -------------- |
-| Word Forms and Simple Present Tense              | 🔄 In Progress |
+| Word Forms and Simple Present Tense              | ✅ Completed |
 | Questions, Present Progressive and Future Tenses | ⬜ Not Started |
 | Simple Past Tense                                | ⬜ Not Started |
 
