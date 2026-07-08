@@ -16,9 +16,9 @@ This course focuses on:
 
 ## Modules
 
-| Module   |     Slides     |  Assignments   |    Quizzes     |
-| :------- | :------------: | :------------: | :------------: |
-| Module 1 | 🚧 Coming Soon | 🚧 Coming Soon | 🚧 Coming Soon |
+| Module   |     Slides     |  Exercises   |    Assignments     |  
+| :------- | :------------: | :------------: | :------------: | 
+| Module 1 | [📑 Slides](https://drive.google.com/file/d/1yFPpKshiAYa8qYhS6cnQ1xII4TbgwKw5/view?usp=drive_link) |  [📝 Exercises](https://drive.google.com/drive/folders/14TzGa7yN3wJcBKjFyj_M-6vbgQ7K6SUp?usp=drive_link) |  [📝 Assignment](https://drive.google.com/file/d/1vqR2D3TpOFd5h-hPQWHeASQwWMemxKYP/view?usp=drive_link) |
 | Module 2 | 🚧 Coming Soon | 🚧 Coming Soon | 🚧 Coming Soon |
 | Module 3 | 🚧 Coming Soon | 🚧 Coming Soon | 🚧 Coming Soon |
 | Module 4 | 🚧 Coming Soon | 🚧 Coming Soon | 🚧 Coming Soon |
