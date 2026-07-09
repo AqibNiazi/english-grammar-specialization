@@ -14,7 +14,7 @@ A structured collection of grammar notes, lecture slides, exercises, solutions, 
 | Course                                           | Status         |
 | ------------------------------------------------ | -------------- |
 | [Word Forms and Simple Present Tense](https://github.com/AqibNiazi/english-grammar-specialization/tree/main/beginner-grammar/course-01-word-forms-and-simple-present)              | ✅ Completed |
-| Questions, Present Progressive and Future Tenses | ⬜ Not Started |
+| [Questions, Present Progressive and Future Tenses](https://github.com/AqibNiazi/english-grammar-specialization/tree/main/beginner-grammar/course-02-questions-present-progressive-and-future-tenses) | 🔄 In Progress |
 | Simple Past Tense                                | ⬜ Not Started |
 
 ## Intermediate Grammar Specialization
