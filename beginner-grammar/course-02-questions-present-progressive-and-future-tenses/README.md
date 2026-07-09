@@ -18,8 +18,8 @@ This course focuses on:
 
 | Module   |     Slides     |  Exercises   |    Assignments     |  
 | :------- | :------------: | :------------: | :------------: | 
-| Module 1 | [📑 Slides](https://drive.google.com/file/d/1yFPpKshiAYa8qYhS6cnQ1xII4TbgwKw5/view?usp=drive_link) |  [📝 Exercises](https://drive.google.com/drive/folders/14TzGa7yN3wJcBKjFyj_M-6vbgQ7K6SUp?usp=drive_link) |  [📝 Assignment](https://drive.google.com/file/d/1vqR2D3TpOFd5h-hPQWHeASQwWMemxKYP/view?usp=drive_link) |
-| Module 2 | 🚧 Coming Soon | 🚧 Coming Soon | 🚧 Coming Soon |
+| Module 1 | [📑 Slides](https://drive.google.com/file/d/1yFPpKshiAYa8qYhS6cnQ1xII4TbgwKw5/view?usp=drive_link) |  [📝 Exercises](https://drive.google.com/drive/folders/14TzGa7yN3wJcBKjFyj_M-6vbgQ7K6SUp?usp=drive_link) |  [📑 Assignment-01](https://drive.google.com/file/d/1vqR2D3TpOFd5h-hPQWHeASQwWMemxKYP/view?usp=drive_link) |
+| Module 2 | [📑 Slides](https://drive.google.com/file/d/1MmWmltZMpTaMOdZF8X0Kso1SlaQ367TS/view?usp=drive_link) |  [📝 Exercises](https://drive.google.com/drive/folders/1Vm6-PL7zIv3etj1jzEpLgkFsYWVqHUyB?usp=drive_link) |  [📑 Assignment-02](https://drive.google.com/file/d/1VYzbQZ-X3Sdlp2KsXirDzolLNHh998rH/view?usp=drive_link) |
 | Module 3 | 🚧 Coming Soon | 🚧 Coming Soon | 🚧 Coming Soon |
 | Module 4 | 🚧 Coming Soon | 🚧 Coming Soon | 🚧 Coming Soon |
 
