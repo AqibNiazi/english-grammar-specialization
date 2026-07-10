@@ -1,52 +1,82 @@
-# English Grammar Learning Journey
+# 📚 English Grammar Learning Journey
 
-A structured collection of grammar notes, lecture slides, exercises, solutions, quizzes, and teaching resources created while completing the UC Irvine English Grammar Specializations on Coursera.
+A structured collection of lecture slides, assignments, quizzes, notes, and teaching resources created while completing the **UC Irvine English Grammar Specializations** on Coursera. This repository documents my learning journey from **Beginner** to **Advanced** grammar while building comprehensive study materials for **IELTS preparation**, **academic writing**, and **community teaching**.
 
-## Learning Goals
 
-- Build a strong grammar foundation
-- Improve IELTS Writing and Speaking
-- Prepare for academic writing and PhD applications
-- Create teaching material for community students
+## 🎯 Learning Goals
 
-## Beginner Grammar Specialization
+* Build a strong foundation in English grammar.
+* Improve English proficiency for IELTS and academic writing.
+* Develop high-quality teaching materials for future grammar courses.
+* Track learning progress across all grammar specializations.
+* Create a long-term grammar reference for students and educators.
 
-| Course                                           | Status         |
-| ------------------------------------------------ | -------------- |
-| [Word Forms and Simple Present Tense](https://github.com/AqibNiazi/english-grammar-specialization/tree/main/beginner-grammar/course-01-word-forms-and-simple-present)              | ✅ Completed |
-| [Questions, Present Progressive and Future Tenses](https://github.com/AqibNiazi/english-grammar-specialization/tree/main/beginner-grammar/course-02-questions-present-progressive-and-future-tenses) | 🔄 In Progress |
-| Simple Past Tense                                | ⬜ Not Started |
 
-## Intermediate Grammar Specialization
+# 📖 Beginner Grammar Specialization
 
-| Course                           | Status         |
-| -------------------------------- | -------------- |
-| Perfect Tenses and Modals        | 🔄 In Progress |
-| Adjectives and Adjective Clauses | ⬜ Not Started |
-| Tricky English Grammar           | ⬜ Not Started |
-| Intermediate Grammar Project     | ⬜ Not Started |
+| Course                                                                                                                                                                                               |     Status     |  Certificate |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------: | :----------: |
+| [Word Forms and Simple Present Tense](https://github.com/AqibNiazi/english-grammar-specialization/tree/main/beginner-grammar/course-01-word-forms-and-simple-present)                                |   ✅ Completed  | [🏆 View](https://www.coursera.org/account/accomplishments/verify/E35B87QR6SZS) |
+| [Questions, Present Progressive and Future Tenses](https://github.com/AqibNiazi/english-grammar-specialization/tree/main/beginner-grammar/course-02-questions-present-progressive-and-future-tenses) | 🔄 In Progress |   ⏳ Pending  |
+| Simple Past Tense                                                                                                                                                                                    |  ⬜ Not Started |   ⏳ Pending  |
 
-## Advanced Grammar Specialization
 
-| Course                                       | Status         |
-| -------------------------------------------- | -------------- |
-| Verb Tenses and Passives                     | ⬜ Not Started |
-| Conjunctions, Connectives and Adverb Clauses | ⬜ Not Started |
-| Noun Clauses and Conditionals                | ⬜ Not Started |
-| Advanced Grammar & Punctuation Project       | ⬜ Not Started |
+# 📘 Intermediate Grammar Specialization
 
-## Certificates
+| Course                           |     Status     | Certificate |
+| :------------------------------- | :------------: | :---------: |
+| Perfect Tenses and Modals        | 🔄 In Progress |  ⏳ Pending  |
+| Adjectives and Adjective Clauses |  ⬜ Not Started |  ⏳ Pending  |
+| Tricky English Grammar           |  ⬜ Not Started |  ⏳ Pending  |
+| Intermediate Grammar Project     |  ⬜ Not Started |  ⏳ Pending  |
 
-Certificates earned during this learning journey are available in the certificates folder.
 
-## Teaching Resources
+# 📗 Advanced Grammar Specialization
 
-This repository will gradually include:
+| Course                                       |     Status    | Certificate |
+| :------------------------------------------- | :-----------: | :---------: |
+| Verb Tenses and Passives                     | ⬜ Not Started |  ⏳ Pending  |
+| Conjunctions, Connectives and Adverb Clauses | ⬜ Not Started |  ⏳ Pending  |
+| Noun Clauses and Conditionals                | ⬜ Not Started |  ⏳ Pending  |
+| Advanced Grammar & Punctuation Project       | ⬜ Not Started |  ⏳ Pending  |
 
-- Lecture Slides
-- Exercises
-- Solutions
-- Quiz Reviews
-- Grammar Cheat Sheets
-- Classroom Activities
-- Presentation Material
+
+# 📂 Repository Structure
+
+```
+english-grammar-specialization/
+│
+├── beginner-grammar/
+├── intermediate-grammar/
+├── advanced-grammar/
+└── certificates/
+```
+
+Each course contains:
+
+* 📑 Lecture Slides
+* 📝 Assignments
+* ✅ Quizzes
+* 📖 Course README
+
+
+# 🏆 Certificates
+
+Course and specialization certificates earned during this learning journey are stored in the **certificates** directory and will be added as each course or specialization is completed.
+
+
+# 🎓 Teaching Resources
+
+This repository is designed to grow into a complete English grammar learning resource containing:
+
+* 📑 Lecture Slides
+* 📝 Assignments
+* ✅ Quizzes
+* 📚 Grammar Notes
+* 📝 IELTS Grammar Resources
+* 📄 Academic Writing Resources
+* 🎤 Classroom Teaching Materials
+* 📌 Grammar Cheat Sheets
+
+
+⭐ If you find this repository helpful for learning English grammar, IELTS preparation, or teaching, consider giving it a star.
