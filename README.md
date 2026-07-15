@@ -17,7 +17,7 @@ A structured collection of lecture slides, assignments, quizzes, notes, and teac
 | Course                                                                                                                                                                                               |     Status     |  Certificate |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------: | :----------: |
 | [Word Forms and Simple Present Tense](https://github.com/AqibNiazi/english-grammar-specialization/tree/main/beginner-grammar/course-01-word-forms-and-simple-present)                                |   ✅ Completed  | [🏆 View Certificate](https://www.coursera.org/account/accomplishments/verify/E35B87QR6SZS) |
-| [Questions, Present Progressive and Future Tenses](https://github.com/AqibNiazi/english-grammar-specialization/tree/main/beginner-grammar/course-02-questions-present-progressive-and-future-tenses) | 🔄 In Progress |   [🏆 View Certificate](https://www.coursera.org/account/accomplishments/verify/0GIWVGLO1VOL)  |
+| [Questions, Present Progressive and Future Tenses](https://github.com/AqibNiazi/english-grammar-specialization/tree/main/beginner-grammar/course-02-questions-present-progressive-and-future-tenses) | ✅ Completed |   [🏆 View Certificate](https://www.coursera.org/account/accomplishments/verify/0GIWVGLO1VOL)  |
 | Simple Past Tense                                                                                                                                                                                    |  ⬜ Not Started |   ⏳ Pending  |
 
 
