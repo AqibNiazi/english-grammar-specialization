@@ -20,7 +20,8 @@ This course focuses on:
 | Module 1 | [📑 Slides](https://drive.google.com/file/d/1qiWPjpN7GZwv99HB8ye9GOACv09g7nM4/view?usp=drive_link) | [📝 Assignment-01 ](https://drive.google.com/drive/folders/186e_AkLm5TgX2uP8FSi2oGcZF9PU82m5?usp=drive_link) |
 | Module 2 | [📑 Slides](https://drive.google.com/file/d/1esgLxMrT17yhc6nYo2z5ctH-s9eSHsVf/view?usp=drive_link) | [📝 Assignment-02 ](https://drive.google.com/drive/folders/1eanDyYHos9yTkmvRbGBIr6H2Mcapey6r?usp=drive_link) |                                             |
 | Module 3 | [📑 Slides](https://drive.google.com/file/d/1WdAy111EO6ZYotIuatQItXFS7zhlzz23/view?usp=drive_link) | [📝 Assignment-03 ](https://drive.google.com/drive/folders/1086aL0-69-Qhyg_MByEKLB_jNzPNmrUW?usp=drive_link) |                                             |                                              |
-| Module 4 |                                           🚧 Coming Soon                                           |                                                🚧 Coming Soon                                                |
+| Module 04 | [📑 Slides](https://drive.google.com/file/d/1L7GLhgs0kgH-pJ0iTRVMM8ZrhgNZXNdX/view?usp=drive_link) | [📝 Assignment-04 ](https://drive.google.com/drive/folders/1EqxVrG4OdNeV8wtaJ3kotQkDCzzGQfKN?usp=drive_link) |                                             |                                              |
+
 
 ## Learning Outcomes
 
