@@ -1,45 +1,49 @@
 # Perfect Tenses and Modals
 
-Course 1 of the Learn English: Intermediate Grammar Specialization.
+Course 1 of the **Learn English: Intermediate Grammar** Specialization.
 
 ## Course Overview
 
 This course focuses on:
 
-- Present Perfect Tense
-- Past Perfect Tense
-- Future Perfect Tense
-- Present Perfect Progressive
-- Past Perfect Progressive
-- Future Perfect Progressive
-- Modal Verbs
-- Modal Meanings and Usage
-- Academic and Professional Communication
-- Grammar Accuracy and Sentence Development
+* Present Perfect Tense
+* Past Perfect Tense
+* Future Perfect Tense
+* Present Perfect Progressive
+* Past Perfect Progressive
+* Future Perfect Progressive
+* Modal Verbs
+* Modal Meanings and Usage
+* Grammar Accuracy and Sentence Development
+* Academic and Professional Communication
 
-These topics help learners express experiences, completed actions, ongoing actions, obligations, possibilities, and predictions more accurately in spoken and written English.
+Throughout this course, learners develop a deeper understanding of perfect tenses and modal verbs, enabling them to communicate experiences, completed actions, ongoing events, obligations, abilities, advice, and possibilities with greater accuracy and confidence.
 
 ## Modules
 
-| Module   | Slides                           | Exercises                          | Solutions                          | Quizzes                        |
-| -------- | -------------------------------- | ---------------------------------- | ---------------------------------- | ------------------------------ |
-| Module 1 | [Slides](./module-01/slides.pdf) | [Exercises](./module-01/exercises) | [Solutions](./module-01/solutions) | [Quizzes](./module-01/quizzes) |
-| Module 2 | [Slides](./module-02/slides.pdf) | [Exercises](./module-02/exercises) | [Solutions](./module-02/solutions) | [Quizzes](./module-02/quizzes) |
-| Module 3 | [Slides](./module-03/slides.pdf) | [Exercises](./module-03/exercises) | [Solutions](./module-03/solutions) | [Quizzes](./module-03/quizzes) |
-| Module 4 | [Slides](./module-04/slides.pdf) | [Exercises](./module-04/exercises) | [Solutions](./module-04/solutions) | [Quizzes](./module-04/quizzes) |
+| Module   |     Slides     |   Assignments  |    Resources   |
+| :------- | :------------: | :------------: | :------------: |
+| Module 1 | [Slides](https://drive.google.com/file/d/1IJnJbr64JKeh_ESmXubxMtNTTFCoXpNT/view?usp=drive_link) | [Assignments](https://drive.google.com/drive/folders/1XsO9kcXdStERnugxrRIBtmdtEhWwSr2T?usp=drive_link) | [Resources](https://drive.google.com/drive/folders/1wPqAlh3zWJQXEYOOsJMOCkXPgeADFGbn?usp=drive_link)|
+| Module 2 | 🚧 Coming Soon | 🚧 Coming Soon | 🚧 Coming Soon |
+| Module 3 | 🚧 Coming Soon | 🚧 Coming Soon | 🚧 Coming Soon |
+| Module 4 | 🚧 Coming Soon | 🚧 Coming Soon | 🚧 Coming Soon |
 
 ## Learning Outcomes
 
-After completing this course, learners should be able to:
+After completing this course, learners will be able to:
 
-- Use perfect tenses accurately in different contexts.
-- Distinguish between simple, perfect, and perfect progressive tenses.
-- Use modal verbs to express ability, necessity, obligation, advice, and possibility.
-- Construct more complex and natural English sentences.
-- Improve grammar usage for IELTS, academic writing, and professional communication.
+* Use perfect tenses accurately in spoken and written English.
+* Differentiate between simple, perfect, and perfect progressive tenses.
+* Apply modal verbs to express ability, permission, obligation, advice, necessity, probability, and possibility.
+* Construct grammatically accurate and more natural English sentences.
+* Improve grammar skills for IELTS, academic writing, and professional communication.
 
 ## Notes
 
 These materials are created for learning, revision, IELTS preparation, academic writing improvement, and future teaching purposes.
 
-The slides, exercises, solutions, and quizzes included in this repository are organized module-wise to support structured learning and self-assessment.
+Each module contains:
+
+* 📑 Lecture Slides
+* 📝 Assignments
+* 📚 Additional Learning Resources

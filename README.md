@@ -26,7 +26,7 @@ A structured collection of lecture slides, assignments, quizzes, notes, and teac
 
 | Course                           |     Status     | Certificate |
 | :------------------------------- | :------------: | :---------: |
-| Perfect Tenses and Modals        | 🔄 In Progress |  ⏳ Pending  |
+| [Perfect Tenses and Modals](https://github.com/AqibNiazi/english-grammar-specialization/tree/main/intermediate-grammar/course-01-perfect-tenses-and-modals)        | 🔄 In Progress |  ⏳ Pending  |
 | Adjectives and Adjective Clauses |  ⬜ Not Started |  ⏳ Pending  |
 | Tricky English Grammar           |  ⬜ Not Started |  ⏳ Pending  |
 | Intermediate Grammar Project     |  ⬜ Not Started |  ⏳ Pending  |
